@@ -1,11 +1,11 @@
 {
   "publish": {
     "Allowed": true,
-    "Enabled": false,
+    "Enabled": true,
     "ProjectConfig": {
       "Title": "hotel",
       "Type": "map",
-      "Org": "local",
+      "Org": "gatorday",
       "Ident": "hotel",
       "Tags": null,
       "Schema": 0,
