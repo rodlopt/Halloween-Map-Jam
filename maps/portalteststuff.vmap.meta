@@ -24,7 +24,22 @@
         "alex.world_portals#31701"
       ],
       "Metadata": {
-        "SingleAssetSource": "maps/portalteststuff.vmap"
+        "SingleAssetSource": "maps/portalteststuff.vmap",
+        "GameSupport": [
+          "facepunch.sandbox"
+        ],
+        "LaunchConfigs": [
+          {
+            "Name": "Alex Portal",
+            "GameIdent": "facepunch.sandbox",
+            "MapName": "turd.portalteststuff#local",
+            "MaxPlayers": 1,
+            "GameSettings": {},
+            "Addons": "alex.world_portals",
+            "PreLaunchCommand": "",
+            "PostLaunchCommand": ""
+          }
+        ]
       }
     }
   }
