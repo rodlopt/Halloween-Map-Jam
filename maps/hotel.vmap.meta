@@ -40,7 +40,10 @@
         "kvien.brickwall01_blue_pixel#37118",
         "kvien.pool_tiles01_pixel#37133",
         "moman.outside_bricks#20436",
-        "quack.skybox_white#13352"
+        "quack.skybox_white#13352",
+        "drakefruit.glass_blocks_001#20452",
+        "facepunch.windowframe_metal_a#33596",
+        "facepunch.glass_c#19949"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/hotel.vmap"
