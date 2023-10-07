@@ -29,7 +29,14 @@
         "kvien.carpetfloor01_pixel#37061",
         "kvien.woodenpanel01_pixel#37220",
         "kvien.wood_fiberboard_pixel#37135",
-        "facepunch.sandbox#38284"
+        "facepunch.sandbox#38284",
+        "apetavern.painted_metal_hs_01a#22522",
+        "kvien.carpetfloor02_pixel#37063",
+        "apetavern.sheet_metal_01a#27924",
+        "kvien.metal04_pixel#37204",
+        "apetavern.building_trim_01a#27922",
+        "trend.custom_video_player#36556",
+        "facepunch.office_chair#33620"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/hotel.vmap"

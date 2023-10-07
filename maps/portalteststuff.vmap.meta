@@ -1,0 +1,31 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "portalteststuff",
+      "Type": "map",
+      "Org": "turd",
+      "Ident": "portalteststuff",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [
+        "alex.world_portals"
+      ],
+      "EditorReferences": [
+        "quack.devgen01#11247",
+        "fishum.dev_blue#25823",
+        "alex.world_portals#31701"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/portalteststuff.vmap"
+      }
+    }
+  }
+}
