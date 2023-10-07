@@ -36,7 +36,11 @@
         "kvien.metal04_pixel#37204",
         "apetavern.building_trim_01a#27922",
         "trend.custom_video_player#36556",
-        "facepunch.office_chair#33620"
+        "facepunch.office_chair#33620",
+        "kvien.brickwall01_blue_pixel#37118",
+        "kvien.pool_tiles01_pixel#37133",
+        "moman.outside_bricks#20436",
+        "quack.skybox_white#13352"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/hotel.vmap"
