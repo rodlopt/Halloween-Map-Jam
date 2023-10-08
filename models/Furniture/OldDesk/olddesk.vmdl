@@ -70,9 +70,27 @@
 						parent_bone = ""
 						surface_prop = "wood"
 						collision_tags = "solid"
-						origin = [ 0.0, 0.0, 17.980513 ]
+						origin = [ 0.0, -27.008993, 17.980513 ]
 						angles = [ 0.0, 0.0, 0.0 ]
-						dimensions = [ 37.0, 80.0, 36.0065 ]
+						dimensions = [ 37.0, 25.982029, 36.0065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ 0.0, -0.15279, 31.869268 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 37.0, 29.54351, 8.229008 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ -0.0, 27.009001, 17.980499 ]
+						angles = [ -0.0, 180.0, 180.0 ]
+						dimensions = [ 37.0, 25.982029, 36.0065 ]
 					},
 				]
 			},

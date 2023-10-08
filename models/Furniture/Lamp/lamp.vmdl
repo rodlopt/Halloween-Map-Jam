@@ -511,11 +511,11 @@
 						[
 							{
 								from = "circle.008.vmat"
-								to = "base/materials/gold.vmat"
+								to = "model/27/flumbo_hat_yellow_basecolor.vmat"
 							},
 							{
 								from = "gold.vmat"
-								to = "base/materials/gold.vmat"
+								to = "model/27/flumbo_hat_yellow_basecolor.vmat"
 							},
 							{
 								from = "green.vmat"
@@ -551,6 +551,7 @@
 							exception_list = 
 							[
 								"Sphere",
+								"Sphere_001",
 								"Circle_008",
 							]
 						}
@@ -568,6 +569,21 @@
 						collision_tags = "solid"
 						faceMergeAngle = 21.66
 						maxHullVertices = 33
+					},
+				]
+			},
+			{
+				_class = "AttachmentList"
+				children = 
+				[
+					{
+						_class = "Attachment"
+						name = "Light"
+						parent_bone = "Bone"
+						relative_origin = [ -0.7, 0.0, 1.9 ]
+						relative_angles = [ 0.0, 0.0, 0.0 ]
+						weight = 1.0
+						ignore_rotation = false
 					},
 				]
 			},
