@@ -1,0 +1,135 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "bed.vmat"
+								to = "dev/helper/testgrid.vmat"
+							},
+							{
+								from = "bedframe.vmat"
+								to = "dev/helper/testgrid.vmat"
+							},
+							{
+								from = "bedlegs.vmat"
+								to = "dev/helper/testgrid.vmat"
+							},
+							{
+								from = "pillow.vmat"
+								to = "dev/helper/testgrid.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ 0.107006, 0.0, 15.671189 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 89.849808, 79.0, 31.403193 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ -42.518631, 0.0, 24.163315 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 4.598527, 79.0, 48.387444 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ 42.825462, 37.291447, 22.784767 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 4.412902, 4.417107, 45.630348 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ 42.8255, -37.291401, 22.7848 ]
+						angles = [ -0.0, 180.0, 180.0 ]
+						dimensions = [ 4.412902, 4.417107, 45.630348 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ -31.050499, -16.297478, 30.460653 ]
+						angles = [ 0.0, -5.353938, 0.0 ]
+						dimensions = [ 20.614262, 32.291206, 10.151112 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ -31.050499, 16.505695, 30.460653 ]
+						angles = [ 0.0, -178.938675, 0.0 ]
+						dimensions = [ 20.614262, 32.291206, 10.151112 ]
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/furniture/oldbed/oldbed.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"Circle_001",
+								"Cube_001",
+								"Cube_002",
+								"Cube_003",
+								"Cube_007",
+								"Cube_009",
+								"Cube_012",
+							]
+						}
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}
