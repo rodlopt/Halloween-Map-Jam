@@ -17,7 +17,8 @@
       "CodePath": null,
       "PackageReferences": [
         "trend.pixelscreen",
-        "alex.world_portals"
+        "alex.world_portals",
+        "duccsoft.simple_mirror"
       ],
       "EditorReferences": [
         "quack.devgen01#11247",
@@ -52,7 +53,10 @@
         "eurorp.yellow_mat#15618",
         "ele.dev_measure_yellowdark#26656",
         "tesssssssssst.untitled_1124510#34932",
-        "mdlresrc.plaster_white001#23421"
+        "mdlresrc.plaster_white001#23421",
+        "eurorp.white_rough#15616",
+        "kvien.concretewall01_dirty_pixel#37057",
+        "duccsoft.simple_mirror#16032"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/hotel.vmap"
