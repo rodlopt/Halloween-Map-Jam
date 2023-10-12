@@ -19,7 +19,7 @@
 							},
 							{
 								from = "toilet.vmat"
-								to = "materials/shared/colors/white_rough.vmat"
+								to = "models/bathroom/white.vmat"
 							},
 						]
 						use_global_default = false
