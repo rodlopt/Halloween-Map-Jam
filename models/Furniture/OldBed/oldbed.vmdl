@@ -15,19 +15,11 @@
 						[
 							{
 								from = "bed.vmat"
-								to = "dev/helper/testgrid.vmat"
+								to = "materials/oldbed/bedtextures.vmat"
 							},
 							{
-								from = "bedframe.vmat"
-								to = "dev/helper/testgrid.vmat"
-							},
-							{
-								from = "bedlegs.vmat"
-								to = "dev/helper/testgrid.vmat"
-							},
-							{
-								from = "pillow.vmat"
-								to = "dev/helper/testgrid.vmat"
+								from = "bedwood.vmat"
+								to = "materials/olddesk/woodpixelated.vmat"
 							},
 						]
 						use_global_default = false
