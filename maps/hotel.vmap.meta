@@ -3,7 +3,7 @@
     "Allowed": true,
     "Enabled": true,
     "ProjectConfig": {
-      "Title": "hotel.exe",
+      "Title": "hotel",
       "Type": "map",
       "Org": "gatorday",
       "Ident": "hotel",
@@ -56,7 +56,8 @@
         "eurorp.white_rough#15616",
         "kvien.concretewall01_dirty_pixel#37057",
         "duccsoft.simple_mirror#16032",
-        "eurorp.door00_left_01#12550"
+        "eurorp.door00_left_01#12550",
+        "turd.terry_skibidi#27200"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/hotel.vmap",
