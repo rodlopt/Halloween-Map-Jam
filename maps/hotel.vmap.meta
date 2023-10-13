@@ -59,7 +59,10 @@
         "eurorp.door00_left_01#12550"
       ],
       "Metadata": {
-        "SingleAssetSource": "maps/hotel.vmap"
+        "SingleAssetSource": "maps/hotel.vmap",
+        "GameSupport": [
+          "facepunch.sandbox"
+        ]
       }
     }
   }
