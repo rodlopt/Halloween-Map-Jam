@@ -1,0 +1,41 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "hotel2",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "hotel2",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "eurorp.door00_left_01#12550",
+        "apetavern.wood_hs_01a#27926",
+        "drakefruit.glass_blocks_001#20452",
+        "eurorp.white_rough#15616",
+        "turd.terry_skibidi#27200",
+        "kvien.carpetfloor02_pixel#37063",
+        "kvien.woodenpanel01_pixel#37220",
+        "kvien.pool_tiles01_pixel#37133",
+        "kvien.concretewall01_dirty_pixel#37057",
+        "kvien.brickwall01_blue_pixel#37118",
+        "kvien.metal04_pixel#37204",
+        "tesssssssssst.untitled_1124510#34932",
+        "kvien.carpetfloor01_pixel#37061",
+        "apetavern.building_trim_01a#27922",
+        "kvien.wood_fiberboard_pixel#37135"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/hotel2.vmap"
+      }
+    }
+  }
+}
