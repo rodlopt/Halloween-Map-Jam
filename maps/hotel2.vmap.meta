@@ -15,7 +15,9 @@
       "MenuResources": null,
       "HasCode": false,
       "CodePath": null,
-      "PackageReferences": [],
+      "PackageReferences": [
+        "trend.pixelscreen"
+      ],
       "EditorReferences": [
         "eurorp.door00_left_01#12550",
         "apetavern.wood_hs_01a#27926",
@@ -32,7 +34,13 @@
         "kvien.carpetfloor01_pixel#37061",
         "apetavern.building_trim_01a#27922",
         "kvien.wood_fiberboard_pixel#37135",
-        "rust.rubble_piles_junkyard#25276"
+        "rust.rubble_piles_junkyard#25276",
+        "apetavern.chainlink_fence#22520",
+        "kvien.metalfloor01_pixel#37140",
+        "kvien.metalwall01_pixel#37209",
+        "quack.skybox_white#13352",
+        "kvien.woodendoor01_pixel#37217",
+        "mdlresrc.plaster_white001#23421"
       ],
       "Metadata": {
         "SingleAssetSource": "maps/hotel2.vmap"
