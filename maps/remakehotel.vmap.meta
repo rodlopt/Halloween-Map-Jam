@@ -1,0 +1,35 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": false,
+    "ProjectConfig": {
+      "Title": "remakehotel",
+      "Type": "map",
+      "Org": "local",
+      "Ident": "remakehotel",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": "*",
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "kvien.carpetfloor01_pixel#37061",
+        "apetavern.wood_hs_01a#27926",
+        "quack.skybox_white#13352",
+        "kvien.woodenpanel01_pixel#37220",
+        "apetavern.chainlink_fence#22520",
+        "eurorp.door00_left_01#12550",
+        "tesssssssssst.untitled_1124510#34932",
+        "creation.vending_01#12800",
+        "kvien.wood_fiberboard_pixel#37135"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/remakehotel.vmap"
+      }
+    }
+  }
+}
