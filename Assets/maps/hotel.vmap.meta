@@ -1,0 +1,82 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "hotel",
+      "Type": "map",
+      "Org": "gatorday",
+      "Ident": "hotel",
+      "Tags": null,
+      "Schema": 0,
+      "HasAssets": false,
+      "AssetsPath": null,
+      "Resources": null,
+      "MenuResources": null,
+      "HasCode": false,
+      "CodePath": null,
+      "PackageReferences": [
+        "trend.pixelscreen",
+        "alex.world_portals"
+      ],
+      "EditorReferences": [
+        "quack.devgen01#11247",
+        "facepunch.doorframe_double_metal_a#33594",
+        "fatcisdev.pbm#23835",
+        "facepunch.doorframe_metal_a#33591",
+        "creation.vending_01#12800",
+        "apetavern.wood_hs_01a#27926",
+        "kvien.woodendoor01_pixel#37217",
+        "kvien.carpetfloor01_pixel#37061",
+        "kvien.woodenpanel01_pixel#37220",
+        "kvien.wood_fiberboard_pixel#37135",
+        "facepunch.sandbox#38284",
+        "apetavern.painted_metal_hs_01a#22522",
+        "kvien.carpetfloor02_pixel#37063",
+        "apetavern.sheet_metal_01a#27924",
+        "kvien.metal04_pixel#37204",
+        "apetavern.building_trim_01a#27922",
+        "trend.custom_video_player#36556",
+        "facepunch.office_chair#33620",
+        "kvien.brickwall01_blue_pixel#37118",
+        "kvien.pool_tiles01_pixel#37133",
+        "moman.outside_bricks#20436",
+        "quack.skybox_white#13352",
+        "drakefruit.glass_blocks_001#20452",
+        "facepunch.windowframe_metal_a#33596",
+        "facepunch.glass_c#19949",
+        "facepunch.glass_a#19946",
+        "alex.world_portals#31701",
+        "odea.lightrain#13839",
+        "degg.base_mat_gold#10126",
+        "eurorp.yellow_mat#15618",
+        "ele.dev_measure_yellowdark#26656",
+        "tesssssssssst.untitled_1124510#34932",
+        "mdlresrc.plaster_white001#23421",
+        "eurorp.white_rough#15616",
+        "kvien.concretewall01_dirty_pixel#37057",
+        "duccsoft.simple_mirror#16032",
+        "eurorp.door00_left_01#12550",
+        "turd.terry_skibidi#27200"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/hotel.vmap",
+        "GameSupport": [
+          "facepunch.sandbox"
+        ],
+        "LaunchConfigs": [
+          {
+            "Name": "test",
+            "GameIdent": "facepunch.sandbox",
+            "MapName": "gatorday.hotel#local",
+            "MaxPlayers": 1,
+            "GameSettings": {},
+            "Addons": "alex.world_portals;trend.pixelscreen",
+            "PreLaunchCommand": "",
+            "PostLaunchCommand": ""
+          }
+        ]
+      }
+    }
+  }
+}

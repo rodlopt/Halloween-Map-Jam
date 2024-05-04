@@ -1,0 +1,103 @@
+<!-- kv3 encoding:text:version{e21c7f3c-8a33-41c5-9977-a76d3a32aa0d} format:modeldoc29:version{3cec427c-1b0e-4d48-a90a-0436f33a6041} -->
+{
+	rootNode = 
+	{
+		_class = "RootNode"
+		children = 
+		[
+			{
+				_class = "MaterialGroupList"
+				children = 
+				[
+					{
+						_class = "DefaultMaterialGroup"
+						remaps = 
+						[
+							{
+								from = "wood.vmat"
+								to = "materials/olddesk/woodpixelated.vmat"
+							},
+							{
+								from = "gold.001.vmat"
+								to = "materials/zombieworld/metal04_pixel.vmat"
+							},
+						]
+						use_global_default = false
+						global_default_material = ""
+					},
+				]
+			},
+			{
+				_class = "RenderMeshList"
+				children = 
+				[
+					{
+						_class = "RenderMeshFile"
+						filename = "models/furniture/olddesk/olddesk.fbx"
+						import_translation = [ 0.0, 0.0, 0.0 ]
+						import_rotation = [ 0.0, 0.0, 0.0 ]
+						import_scale = 1.0
+						align_origin_x_type = "None"
+						align_origin_y_type = "None"
+						align_origin_z_type = "None"
+						parent_bone = ""
+						import_filter = 
+						{
+							exclude_by_default = true
+							exception_list = 
+							[
+								"Cube",
+								"Sphere_004",
+								"Sphere_006",
+								"Sphere_007",
+								"Sphere_008",
+								"Sphere_009",
+								"Sphere_010",
+								"Sphere_011",
+								"Sphere_012",
+								"Sphere_013",
+							]
+						}
+					},
+				]
+			},
+			{
+				_class = "PhysicsShapeList"
+				children = 
+				[
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ 0.0, -27.008993, 17.980513 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 37.0, 25.982029, 36.0065 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ 0.0, -0.15279, 31.869268 ]
+						angles = [ 0.0, 0.0, 0.0 ]
+						dimensions = [ 37.0, 29.54351, 8.229008 ]
+					},
+					{
+						_class = "PhysicsShapeBox"
+						parent_bone = ""
+						surface_prop = "wood"
+						collision_tags = "solid"
+						origin = [ -0.0, 27.009001, 17.980499 ]
+						angles = [ -0.0, 180.0, 180.0 ]
+						dimensions = [ 37.0, 25.982029, 36.0065 ]
+					},
+				]
+			},
+		]
+		model_archetype = ""
+		primary_associated_entity = ""
+		anim_graph_name = ""
+		base_model_name = ""
+	}
+}

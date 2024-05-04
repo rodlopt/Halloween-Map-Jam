@@ -1,0 +1,11 @@
+{
+  "MasterVolume": "1.00,1.00,0",
+  "LoopedSounds": [
+    {
+      "SoundFile": "music/hotel_song.vsnd",
+      "Volume": "0.53,0.53,0"
+    }
+  ],
+  "StingSounds": [],
+  "__references": []
+}
