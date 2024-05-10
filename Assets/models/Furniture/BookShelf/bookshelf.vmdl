@@ -14,12 +14,12 @@
 						remaps = 
 						[
 							{
-								from = "material.vmat"
-								to = "materials/olddesk/woodpixelated.vmat"
-							},
-							{
 								from = "books_mat.vmat"
 								to = "materials/bookshelf/booktextures.vmat"
+							},
+							{
+								from = "bookshelf.vmat"
+								to = "materials/bookshelf/bookshelf.vmat"
 							},
 						]
 						use_global_default = false
