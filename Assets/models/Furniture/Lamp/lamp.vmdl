@@ -511,11 +511,11 @@
 						[
 							{
 								from = "circle.008.vmat"
-								to = "model/27/flumbo_hat_yellow_basecolor.vmat"
+								to = "materials/luggage carrier/gold.vmat"
 							},
 							{
 								from = "gold.vmat"
-								to = "model/27/flumbo_hat_yellow_basecolor.vmat"
+								to = "materials/luggage carrier/gold.vmat"
 							},
 							{
 								from = "green.vmat"
