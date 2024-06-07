@@ -1,0 +1,27 @@
+{
+  "publish": {
+    "Allowed": true,
+    "Enabled": true,
+    "ProjectConfig": {
+      "Title": "Test map",
+      "Type": "map",
+      "Org": "classicmaps",
+      "Ident": "maptest",
+      "Tags": null,
+      "Schema": 0,
+      "Resources": null,
+      "PackageReferences": [],
+      "EditorReferences": [
+        "mdlresrc.plaster_white001#23421",
+        "mufamoof.dev_glass#30717",
+        "quack.devgen01#11247"
+      ],
+      "Metadata": {
+        "SingleAssetSource": "maps/testmap.vmap",
+        "GameSupport": [
+          "facepunch.walker"
+        ]
+      }
+    }
+  }
+}
